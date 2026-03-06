@@ -1,4 +1,7 @@
 ## Pretrain Corpus Generation
+
+> 中文运行步骤请查看：[`USAGE_zh.md`](USAGE_zh.md)
+
 The codes are in data_generation/pretrain_data_gen.py
 ### pretrain_dataset_generation (from pcap to burst)
 ```
